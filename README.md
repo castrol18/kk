@@ -11,3 +11,6 @@ la nube es tolerable a fallos, OpEx (gasto de lo que usas), agilidad, escalabili
 Las nubes y sus bases de datos se protegen entre sí a través de fibra óptica por su zona de disponibilidad en la cual están conectadas. 
 ![nube-internet](https://user-images.githubusercontent.com/83742518/117525375-9b8bac80-af87-11eb-9d53-4eea409b5d83.jpg)
 
+Curso microsoft 2021.
+Pagina creada por Julio Garcia Castillo y Abimael Luna Ramírez.
+Reto Máster
